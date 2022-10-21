@@ -1,0 +1,24 @@
+@font-face {
+  font-family: Inconsolata;
+  src: url('font/Inconsolata/Inconsolata-VariableFont_wdth,wght.ttf');
+  font-stretch: 1% 500%;
+}
+
+html {
+  background-color: #EDDEED;
+  font-family: Inconsolata, monospace;
+  max-width: 900px;
+  padding: 36px;
+  margin: auto;
+}
+
+h1 {
+  font-weight: 900;
+  font-size: 108px;
+  font-stretch: 125%;
+}
+
+p {
+  font-weight: 300;
+  font-size: 36px;
+}
